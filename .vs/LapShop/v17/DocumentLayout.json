@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LapShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\areas\\admin\\views\\categories\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\areas\\admin\\views\\categories\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|c:\\users\\user\\source\\repos\\lapshop\\lapshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6C269-46F9-4BBE-A7C4-D35282CCB30E}|LapShop\\LapShop.csproj|solutionrelative:lapshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Program.cs",
+              "RelativeDocumentMoniker": "LapShop\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Program.cs",
+              "RelativeToolTip": "LapShop\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:34:11.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Models\\TbCategory.cs",
+              "RelativeDocumentMoniker": "LapShop\\Models\\TbCategory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Models\\TbCategory.cs",
+              "RelativeToolTip": "LapShop\\Models\\TbCategory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:50:52.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Views\\Categories\\List.cshtml",
+              "RelativeDocumentMoniker": "LapShop\\Areas\\Admin\\Views\\Categories\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Views\\Categories\\List.cshtml",
+              "RelativeToolTip": "LapShop\\Areas\\Admin\\Views\\Categories\\List.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:28:41.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LapShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "LapShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T20:53:16.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LapShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LapShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:09:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsCategories.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Bl\\ClsCategories.cs",
+              "RelativeDocumentMoniker": "LapShop\\Bl\\ClsCategories.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LapShop\\LapShop\\Bl\\ClsCategories.cs",
+              "RelativeToolTip": "LapShop\\Bl\\ClsCategories.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:08:59.722Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
